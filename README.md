@@ -138,7 +138,7 @@ The applications will be available at:
 - **Runtime:** Node.js
 - **Framework:** Fastify
 - **Database:** Turso
-- **Testing:** Jest
+- **Testing:** Jest & Supertest
 - **API Documentation:** Swagger/OpenAPI
 - **Security:** CORS, Rate Limiting
 
