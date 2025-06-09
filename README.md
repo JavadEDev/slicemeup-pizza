@@ -8,7 +8,7 @@
   >
 </p>
 
-> Spin up a modern pizza‑ordering SaaS in minutes. This template bundles a React 19 + Vite front‑end with an Express/Node back‑end, wiring them together for local development, CI, and zero‑config deployment on Vercel.
+> Spin up a modern pizza‑ordering SaaS in minutes. This template bundles a React 19 + Vite front‑end with a Node.js with Fastify framework back‑end, wiring them together for local development, CI, and zero‑config deployment on Vercel.
 
 ## Why use this template?
 
