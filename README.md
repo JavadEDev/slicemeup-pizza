@@ -1,6 +1,12 @@
 # 🍕 SliceMeUp Pizza — Full‑Stack Monorepo Template
 
-![SliceMeUp UI](https://raw.githubusercontent.com/JavadEDev/slicemeup-pizza/main/SliceMeUp.png)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/JavadEDev/slicemeup-pizza/main/SliceMeUp.png"
+    alt="SliceMeUp UI"
+    width="450"   
+  >
+</p>
 
 > Spin up a modern pizza‑ordering SaaS in minutes. This template bundles a React 19 + Vite front‑end with an Express/Node back‑end, wiring them together for local development, CI, and zero‑config deployment on Vercel.
 
